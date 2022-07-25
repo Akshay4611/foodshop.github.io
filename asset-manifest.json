@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/foodshop.github.io/static/css/main.fa681380.css",
+    "main.js": "/foodshop.github.io/static/js/main.1032900c.js",
+    "static/media/bg.jpg": "/foodshop.github.io/static/media/bg.38f4b3510c1c2bf3df46.jpg",
+    "index.html": "/foodshop.github.io/index.html",
+    "main.fa681380.css.map": "/foodshop.github.io/static/css/main.fa681380.css.map",
+    "main.1032900c.js.map": "/foodshop.github.io/static/js/main.1032900c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa681380.css",
+    "static/js/main.1032900c.js"
+  ]
+}
